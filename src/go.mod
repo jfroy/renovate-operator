@@ -4,7 +4,7 @@ go 1.26.3
 
 require (
 	github.com/alicebob/miniredis/v2 v2.38.0
-	github.com/coreos/go-oidc/v3 v3.18.0
+	github.com/coreos/go-oidc/v3 v3.20.0
 	github.com/netresearch/go-cron v0.15.0
 	github.com/valkey-io/valkey-go v1.0.75
 	go.opentelemetry.io/contrib/bridges/otellogr v0.19.0
